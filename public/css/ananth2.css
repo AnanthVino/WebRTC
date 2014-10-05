@@ -1,0 +1,162 @@
+.container1
+{
+
+	background:#6495ED;
+	height:100px;
+    width:100%;
+	-webkit-border-radius:10px;
+	margin-top:-12%;
+}
+i
+{
+   
+	text-align:center;
+	font-size:39px;
+    padding-top:15px;
+    color:indigo;
+    font-family:Rockwell Extra Bold;
+    margin-left:18%;
+    
+}
+.head
+{
+	font-family:Rockwell Extra Bold;
+	margin-top:-3%;
+	margin-left:25%;
+	color:indigo;
+}
+#firstname
+{
+	height:4%;
+	width:401px;
+	margin-left:2%;
+	margin-top:2%;
+	text-align:center;
+	font-size:15px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+	
+}
+#lastname
+{
+	height:4%;
+	width:401px;
+	margin-left:2%;
+	text-align:center;
+	font-size:15px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+
+#email
+{
+	height:4%;
+	width:401px;
+	margin-left:2%;
+	text-align:center;
+	font-size:15px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+
+#password
+{
+	height:4%;
+	width:401px;
+	margin-left:2%;
+	text-align:center;
+	font-size:15px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+
+#password2
+{
+	height:4%;
+	width:401px;
+	margin-left:2%;
+	text-align:center;
+	font-size:15px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+
+#month
+{
+
+	margin-left:2px;
+
+}
+#month1
+{
+	height:37px;
+	width:100px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+#day
+{
+	margin-left:149px;
+	margin-top:-59px;
+}
+#day1
+{
+	height:37px;
+	width:100px;
+	margin-left:150px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+#year
+{
+	margin-left:300px;
+	margin-top:-59px;
+}
+#year1
+{
+	height:37px;
+	width:100px;
+	margin-left:300px;
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+}
+#dob
+{
+	margin-left:4%;
+}
+#Signup1
+{
+	margin-left:42%;
+	margin-top:3%;
+	border-color:#333399;
+    border-style: 30px solid;
+    font-size:15px;
+	background:#6495ED;
+}
+#set
+{
+	width:32%;
+	margin-left:2%;
+	border-color:#333399;
+    border-style: 30px solid;
+    background:#6495ED;
+
+}
+#formID
+{
+	width:39%;
+	margin-left:31%;
+	border-color:#333399;
+    border-style: 30px solid;
+    background:#6495ED;
+}
+
+

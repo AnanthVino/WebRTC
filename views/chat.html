@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WebRTC Video chat</title>
+  <meta charset="utf-8">
+  <meta name="viewport"content="width=device-width">
+  <link rel="stylesheet"type="text/css"href="css/chat.css">
+  <link rel="stylesheet"type="text/css"href="css/foundation.css">
+  <link rel="stylesheet"type="text/css"href="css/foundation.min.css">
+  <link rel="stylesheet"type="text/css"href="css/normalize.css">
+  <script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+  
+<style>
+  body
+{
+background: url('../img/6.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 12%; 
+}
+</style>
+</head>
+
+<body ng-app>
+ 
+ <div class="container1"style="position:absolute">
+
+       <div class="row">
+            <div class="twelve columns">
+                <h1><i><b>REALTIME COMMUNICATION</b></i></h1>
+        </div>
+    </div>           
+</div>
+
+
+
+<div class="container2"style="position:absolute">
+
+       <div class="row">
+            <div class="twelve columns">
+                <p>ONLINE MY FRIENDS</p>
+        </div>
+    </div>           
+</div>
+
+
+<div class="row">
+  <div class="small-3 columns" ng-controller="videoController" style="position:obsalut;top:100px;left:-100px">
+      <ul>
+        <li  ng-click="call(online)" ng-repeat="online in onlineuser"> <img src="img/online.png">{{ online }} </li>
+    </ul>
+  </div>
+  <div class="small-9 columns">
+    <div class="row">
+  <div class="columns">
+    
+    <div><video id="sourceVideo" class="video" width="100" controls autoplay></video></div>
+
+        <div><video id="destiVideo" class="video1" width="100" controls autoplay></video></div>
+  </div>
+</div>
+  </div>
+</div>
+</body>
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+</html>

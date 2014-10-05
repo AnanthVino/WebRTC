@@ -1,0 +1,13 @@
+.container1
+{
+
+	background:#7B69EE;
+	height:90px;
+    width:100%;
+	-webkit-border-radius:10px;
+}
+h1
+{
+	font-size:20%;
+	text-align:center;
+}

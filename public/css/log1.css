@@ -1,0 +1,84 @@
+
+
+.container1
+{
+
+	background:#6495ED;
+	height:100px;
+    width:100%;
+	-webkit-border-radius:10px;
+	margin-top:-12%;
+}
+i 
+{
+     text-align:center;
+	font-size:39px;
+    padding-top:15px;
+    color:indigo;
+    font-family:Rockwell Extra Bold;
+    margin-left:18%;
+    
+}
+
+#inputEmail1
+{   
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+	height:3%;
+	width:353px;
+}
+#password
+{
+	border-color:#333399;
+    border-style: 30px solid;
+	background:#6495ED;
+	height:3%;
+	width:353px;
+
+
+}
+#set
+{    
+    
+    border-color:#333399;
+    border-style: 30px solid;
+    background:#6495ED;
+    left:35%;
+	width:28%;
+	position:relative;
+}
+h3
+{
+	text-align:center;
+	margin-top:3%;
+	
+}
+.head
+{
+	font-family:Rockwell Extra Bold;
+	color:indigo;
+}
+#Login1
+{   background:#6495ED;
+	margin-left:35%;
+	font-size:20px;
+}
+#new
+{
+	background:#6495ED;
+	margin-left:555px;
+	font-size:20px;
+}
+#email1
+{
+	font-size:25px;
+	color:#A8A8A8 ;
+    font-family:Rockwell Extra Bold;
+}
+#password1
+{
+	font-size:25px;
+	color:#A8A8A8 ;
+    font-family:Rockwell Extra Bold;
+}

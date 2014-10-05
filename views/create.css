@@ -1,0 +1,238 @@
+.container1
+{
+
+	background:#7B69EE;
+	height:107px;
+    width:100%;
+	-webkit-border-radius:10px;
+}
+i 
+{
+    margin-left: 350px;
+	font-size:50;
+	font-style:italic-bold;
+	font-family: FELIX TITLING;
+	font-color:aqua;
+	height:60px;
+	width:30%;
+	text-align: center;
+    margin-right:10px;
+    
+}
+.container2
+{
+	background:#7B69EE;
+	width:50%;
+	height:95px;
+	left:50%;
+	top:1%;
+	padding-top:10px;
+
+}
+.bro
+{
+	margin-left:200px;
+	border-radius: 5px;
+}
+#inputEmail1
+{
+	margin-left:200px;
+	border-radius: 5px;
+	border-color: grey;
+}
+.inline
+{
+	margin-left:20px;
+	border-radius: 5px;
+}
+#inputPassword1
+{
+	margin-left:20px;
+	border-radius: 5px;
+	border-color: grey;
+}
+.alert
+{
+	background-color: red;
+}
+#Login1
+{
+	margin-left:30px;
+	border-radius: 5px;
+	background-color: blue;
+}
+.container3
+{
+	top:39%;
+	background-color: #A8A8A8;
+	margin-left: 60.7%;
+	height: 130%;
+	width: 39.5%;
+	top:20%;
+	padding-top: 5%;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: white;
+	margin-bottom: %;
+
+}
+h2
+{
+	font-size: xx-large;
+	color:rose;
+	font-style:italic ;
+	font-family:Algerian;outline-style: solid;
+	margin-top: .1%;
+	outline-color: white;
+	border-radius: 10px;
+
+}
+.row
+{
+
+}
+.signup1
+{
+	margin-left: 30px;
+}
+#FirstName
+{
+	margin-left: 67px;
+	width: 150px;
+	height: 30px;
+	border-radius: 5px;
+	font-size: large;
+	text-align: center; 
+	border-color: grey;
+}
+#LastName
+{
+margin-left: 53px;
+width: 150px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey; 
+}
+.birthday
+{
+font-size: large;
+margin-left: 67px;
+border-color: grey;
+
+}
+p
+{
+	margin-left: 67px;
+	font-size: x-large;
+}
+#EmailAddress
+{
+margin-left: 67px;
+width: 361px;
+height: 30px;
+font-size:24;
+border-radius: 5px;
+font-size: large; 
+text-align: center;
+border-color: grey;
+}
+#Password
+{
+	 
+margin-left: 67px;
+width: 361px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey;
+}
+#conPassword
+{
+margin-left: 67px;
+width: 361px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey;
+}
+#Signup1
+{
+margin-left: 150px;
+height:30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+background-color: blue;
+border-color: white;
+}
+.img 
+{
+	margin-right:100%;
+	margin-top: 1%;
+	margin-left: 50%
+}
+#check
+{
+	margin-left: 30%;
+}
+#radio
+{
+	margin-left: 50px;
+	font-size: x-large;
+	border-radius: 5px;
+	margin-top: 0px;
+}
+#birthday
+{
+	margin-left: 50px;
+	font-size: x-large;
+}
+.month
+{
+width: 13%;
+border-radius: 5px;
+height: 27px;
+border-color: grey;
+}
+.day 
+{
+width: 13%;
+border-radius: 5px;
+height: 27px;
+border-color: grey;
+}
+.year
+{
+width:13%;
+border-radius: 5px;
+height: 27px;
+border-color: grey;
+}
+img 
+{
+width: 100%;	
+height:100%;
+top: -10%;
+border-top: -100%
+
+	
+}
+#container4
+{
+	width: 60%;
+	height: 85%;       
+	background-color:black lighter 5%;
+	right: 82%;
+	left: 0.5%;
+	top:17.8%;
+	
+}
+.img 
+{
+	width:200%;
+	height: 100%;
+}

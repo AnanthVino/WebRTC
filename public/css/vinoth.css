@@ -1,0 +1,194 @@
+.container1
+{
+
+	background:#330099;
+	height:100px;
+    width:100%;
+	-webkit-border-radius:10px;
+}
+h1
+{
+	font-size:1%;
+	text-align:center;
+}
+h2
+{
+	font-size: 5%;
+}
+.container3
+{
+	height:575px;
+	width:500px;
+	background:#A8A8A8;
+	margin-top:6.7%;
+	margin-left:63%;
+	border-style:solid;
+    border-top-color:black;
+}
+img
+{
+	margin-left:0%;
+	margin-top:6.7%;
+	max-height:200%;
+	min-width:1000px;
+}
+#FirstName
+{
+	margin-left: 20px;
+	width: 110px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: x-large;
+	text-align: center; 
+	border-color: grey;
+	margin-top:-30;
+}
+#LastName
+{
+	margin-left: 200px;
+	margin-top: -15.9%;
+	width: 110px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: x-large;
+	text-align: center; 
+	border-color: grey;
+}
+#username
+{
+	margin-left: 20px;
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: x-large;
+	text-align: center; 
+	border-color: grey;
+}
+#password
+{
+	margin-left: 20px;
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: x-large;
+	text-align: center; 
+	border-color: grey;
+}
+#password2
+{
+	margin-left: 20px;
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: x-large;
+	text-align: center; 
+	border-color: grey;
+}
+#month1
+{
+	margin-left: 30px;
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: large;
+	text-align: center; 
+	border-color: grey;
+	margin-top: -1%;
+}
+#month
+{
+	margin-left:15%;
+	font-size: large;
+
+}
+#day1
+{   
+width: 100px;
+border-radius: 5px;
+height: 40px;
+border-color: grey;
+margin-top: -2%;
+margin-left: 36.5%;
+}
+#day
+{
+	margin-left:44%;
+	margin-top: -15%;
+	font-size: large;
+	font-color:black;
+}
+#Day
+{
+margin-top:-12.2%;
+font-size: large;
+}
+.radio
+{
+	margin-left:50%;
+	font-size: large;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+#year1
+{
+width: 100px;
+border-radius: 5px;
+height: 40px;
+border-color: grey;
+margin-top: -2%;
+margin-left: 67%;
+}
+#year
+{
+margin-left:75%;
+margin-top: -15%;
+font: blue;
+font-size: large;
+
+}
+#sex
+{
+margin-left:5%;
+margin-top:10%;
+}
+#sex1
+{
+margin-left:20%;
+margin-top:5%;
+}
+#Signup1
+{
+margin-left:37%;
+margin-top: 5%;
+font-size: x-large;
+border-radius: 5%;
+background-color: black;
+}
+
+fieldset
+{
+background-color: grey;
+height: 20%;
+width: 99.5%;
+margin-top: 10%;
+border-top-color: white;
+border-top-style: solid;
+}
+#formID
+{
+	background-color: grey;
+	margin-left: -.20%;
+	width: 100%;
+
+}
+b 
+{
+	margin-left: 60px;
+	font-size:110%;
+	font-style:italic-bold;
+	font-family:Algerian;
+	font:green;
+	
+	
+}
+

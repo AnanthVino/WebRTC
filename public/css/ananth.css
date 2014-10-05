@@ -1,0 +1,151 @@
+.container1
+{
+
+	background:#7B69EE;
+	height:100px;
+    width:100%;
+	-webkit-border-radius:10px;
+}
+i 
+{
+    margin-left: 350px;
+	font-size:50;
+	font-style:italic-bold;
+	font-family: FELIX TITLING;
+	font-color:aqua;
+	height:60px;
+	width:30%;
+	text-align: center;
+    margin-right:10px;
+    
+}
+img
+{
+	margin-left:0%;
+	margin-top:7%;
+	max-height:200%;
+	min-width:1000px;
+
+}
+#email
+{
+	margin-left:35px;
+	border-radius: 5px;
+	border-color: grey;
+	left: 90%;
+	right: 50%;
+	font-size: x-large;
+	height: 40px;
+	width:77%;
+	margin-right: 40%;
+}
+.inline
+{
+	margin-left:10px;
+	border-radius: 5px;
+	left: 60%;
+	font-size:xx-large;
+}
+#email1
+{
+margin-right: 42%;
+margin-top:-2%;
+}
+#password1
+{
+	margin-top:-6%;
+	margin-right: 43%;
+}
+#password
+{
+	margin-left:30px;
+	border-radius: 5px;
+	border-color: grey;
+	left: 80%;
+	right: 50%;
+	font-size: x-large;
+	height: 40px;
+    width:77%;
+	margin-right: 14.5%;
+}
+#Login1
+{
+	margin-right:30px;
+	border-radius: 5px;
+	background-color: blue;
+	font-size: x-large;
+}
+#new
+{
+	margin-left:15%;
+	border-radius: 5px;
+	background-color:lightblue;
+	font-size: x-large;
+	text-align: center;
+}
+
+h2
+{
+	color:rose;
+	font-style:italic ;
+	font-family:Algerian;
+}
+.pannel
+{
+	
+	margin-left: 176%;
+	height: 110%;
+	width: 137%;
+	margin-top:-225%;
+	padding-top: 5%;
+	border-color: white;
+	border-style: solid;
+	border-radius: 10px;
+	}
+	.pannel-body
+	{
+		text-align: center;
+	    outline-style: solid;
+		border-color: red;
+		outline-color: white;
+		outline-width: 100%;
+		width: 100%;
+		top:130%;
+		margin-top: 10%;
+		border-radius: 10px;
+		
+
+	}
+	.pannel-title
+	{
+		text-align: center;
+		height: 60px;
+		top:5%;
+		font-size: xx-large;
+		color: black;
+		bottom: 50px;
+		margin-bottom: -7%;
+		margin-top: -5%;
+		
+	}
+	#logimg
+	{
+		height: 100px;
+		width:10px;
+		 margin-top: -13%;
+		margin-left: -1%;
+	}
+	}
+	
+	.pannel-heading
+	{
+		margin-top: 1px;
+
+	}
+	fieldset
+	{
+		background-color: grey;
+		margin-left:196%; 
+		right: 100%;
+		margin-top: 50%;
+	}

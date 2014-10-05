@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WebRTC Video chat</title>
+  <meta charset="utf-8">
+  <meta name="viewport"content="width=device-width">
+  <link rel="stylesheet"type="text/css"href="css/log1.css">
+  <link rel="stylesheet"type="text/css"href="css/foundation.css">
+  <link rel="stylesheet"type="text/css"href="css/foundation.min.css">
+  <link rel="stylesheet"type="text/css"href="css/normalize.css">
+   <script src="js/jquery.js"></script>
+  <script src="js/foundation.min.js"></script>
+ 
+  <script src="js/modernizr.js"></script>
+<style>
+  body
+{
+background-color:#330099;
+}
+</style>
+</head>
+<body>
+ 
+ <div class="container1"style="position:absolute">
+
+       <div class="row">
+            <div class="twelve columns">
+                <h1><i><b>REALTIME COMMUNICATION</b></i></h1>
+        
+    </div> </div>
+  </div>
+
+    
+             <div class="row">
+    <div class="large-12 columns main">
+            <ul>
+                <li>
+                    
+                        <img src="img/ee.jpg" alt="" /></li>
+                            </ul>
+                    </div>
+                </div>
+                
+
+  <h3 class="head">LOGIN PAGE</h3>
+
+    
+     <form id="formID" class="formular" method="post"action="login">
+      <fieldset id="set">
+  
+         
+          <label for="inputPassword1" class="inline" id="email1">Username</label>
+
+          <input type="text"  id="inputEmail1"placeholder="example@gmail.com">
+          <label for="inputPassword1" class="inline" id="password1">Password</label>
+
+          <input type="password"  id="password" placeholder="********************">
+      
+
+         <button type="Login" class="button tiny success" id="Login1">Login</button>
+
+       </fieldset>
+         <button type="new" class="button tiny success"id="new"><a href="/signup">Create New Account</a></button>
+
+       
+
+     
+  <script type="text/javascript">
+$(document).ready(function() {
+    $('#Login1').bind("click",function() 
+    { 
+        var username= $('#inputEmail1').val(); 
+        var password=$('#password').val();
+        if(username=='' && password=='') 
+        { 
+            alert("Please Enter username and password"); 
+
+        }else
+        {
+          var data={username:username,password:password};
+           $.ajax({type:'POST',url:'/login',data:data,success:function(data)
+           {
+
+             if(data.data=='success')
+             {
+                   sessionStorage.username=username;
+                   location.href=data.url;
+             }else
+              {
+                alert(data.data);
+
+             }
+             console.log(data);
+           }
+           });
+           }
+    }); 
+});
+</script> 
+    </form>
+  </body>
+  </html>

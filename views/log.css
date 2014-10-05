@@ -1,0 +1,262 @@
+.container1
+{
+
+	background:#7B69EE;
+	height:100px;
+    width:100%;
+	-webkit-border-radius:10px;
+}
+i 
+{
+    margin-left: 350px;
+	font-size:50;
+	font-style:italic-bold;
+	font-family: FELIX TITLING;
+	font-color:aqua;
+	height:60px;
+	width:30%;
+	text-align: center;
+    margin-right:10px;
+    
+}
+.container2
+{
+	background:red;
+	width:50%;
+	height:95px;
+	left:50%;
+	top:1%;
+	padding-top:10px;
+
+}
+.bro
+{
+	margin-left:200px;
+	border-radius: 5px;
+}
+#inputEmail1
+{
+	margin-left:100px;
+	border-radius: 5px;
+	border-color: grey;
+	left: 90%;
+	right: 50%;
+	font-size: x-large;
+	height: 24px;
+	margin-right: 14.5%;
+}
+.inline
+{
+	margin-left:5px;
+	border-radius: 5px;
+	left: 50%;
+	font-size:xx-large;
+}
+#email1{
+margin-right: 25%;
+}
+#password1
+{
+	margin-right: 25%;
+}
+#inputPassword1
+{
+	margin-left:100px;
+	border-radius: 5px;
+	border-color: grey;
+	left: 80%;
+	right: 50%;
+	font-size: x-large;
+	height: 24px;
+	margin-right: 14.5%;
+
+}
+.alert
+{
+	background-color: red;
+}
+#Login1
+{
+	margin-left:30px;
+	border-radius: 5px;
+	background-color: blue;
+	font-size: x-large;
+	margin-right: 40%;
+
+}
+#new
+{
+	margin-left:25%;
+	border-radius: 5px;
+	background-color:lightblue;
+	font-size: x-large;
+	text-align: center;
+}
+#check
+{
+	left: 50%;
+	right: 60%;
+	text-align: center;
+	margin-right: 50%;
+	margin-left: 30%;
+}
+.container3
+{
+	background-color:red;
+	margin-left: 60%;
+	height: 110%;
+	width: 40%;
+	top:20%;
+	padding-top: 5%;
+	border-radius: 10px;
+
+}
+h2
+{
+	color:rose;
+	font-style:italic ;
+	font-family:Algerian;
+}
+.row
+{
+
+}
+.signup1
+{
+	margin-left: 30px;
+}
+#FirstName
+{
+	margin-left: 67px;
+	width: 150px;
+	height: 30px;
+	border-radius: 5px;
+	font-size: large;
+	text-align: center; 
+	border-color: grey;
+}
+#LastName
+{
+margin-left: 53px;
+width: 150px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey; 
+}
+.birthday
+{
+font-size: large;
+margin-left: 67px;
+border-color: grey;
+
+}
+p
+{
+	margin-left: 67px;
+	font-size: x-large;
+}
+#EmailAddress
+{
+margin-left: 67px;
+width: 361px;
+height: 30px;
+font-size:24;
+border-radius: 5px;
+font-size: large; 
+text-align: center;
+border-color: grey;
+}
+#Password
+{
+	 
+margin-left: 67px;
+width: 361px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey;
+}
+#conPassword
+{
+margin-left: 67px;
+width: 361px;
+height: 30px;
+border-radius: 5px;
+font-size: large;
+text-align: center;
+border-color: grey;
+}
+.img 
+{
+	margin-right:100%;
+	margin-top: 1%;
+	margin-left: 50%
+}
+
+
+.container4
+{
+	width: 64%;
+	height: 85%;       
+	background-color:red;
+	left: 0.5%;
+	top:16.6%;
+	border:red;
+	
+}
+.img 
+{
+	width:255%;
+	height: 130%;
+}
+.pannel
+{
+	
+	margin-left: 64%;
+	height: 454%;
+	width: 35%;
+	top:20%;
+	padding-top: 5%;
+	border-color: white;
+	border-style: solid;
+	border-radius: 10px;
+	}
+	.pannel-body
+	{
+		text-align: center;
+	    outline-style: solid;
+		border-color: red;
+		outline-color: white;
+		outline-width: 50%;
+		top:100%;
+		margin-top: 8%;
+		border-radius: 10px;
+
+	}
+	.pannel-title
+	{
+		text-align: center;
+		height: 40px;
+		top:5%;
+		font-size: xx-large;
+		color: black;
+		bottom: 50px;
+		margin-bottom: -7%;
+		margin-top: -5%;
+		
+	}
+	#logimg
+	{
+		height: 131px;
+		width:130px;
+		 margin-top: -13%;
+		margin-left: 40%;
+	}
+	.pannel-heading
+	{
+		margin-top: 5px;
+
+	}
